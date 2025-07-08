@@ -1,1 +1,1 @@
-# scoreboard
+# Demo mplementation of the Football World Cup Score Board
